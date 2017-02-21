@@ -13,7 +13,7 @@
                          <li><a href="step.php">Step</a></li>
                           <li><a href="vignette.php">Vignette</a></li>
                             <li><a href="ddm.php">DDM</a></li>
-                           <li><a href="Images.php">Images</a></li> 
+                           <li><a href="favorites.php">My Saved Questions</a></li> 
                           
                                           
 
