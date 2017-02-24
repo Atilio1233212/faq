@@ -122,7 +122,7 @@
                                         </div>
                                         <div class="modal-body">
                                             
-                                            <iframe scrolling="no" frameBorder="0" width="700" height="350" src="AddQuestion.php"></iframe> 
+                                            <iframe scrolling="no" frameBorder="0" width="700" height="550" src="AddQuestion.php"></iframe> 
                                     
 
                                              
